@@ -106,3 +106,6 @@
 ![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/19.PNG)
 # Задание 10
 ![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/20.PNG)
+
+# Вывод
+В этой лабораторной работе мы ознакомились с применением арифметических операциях в Python, разобрали операции с переменными строчного типа.
