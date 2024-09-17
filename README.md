@@ -1,1 +1,10 @@
-# Samostoyatelnaya_rabota_2
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/1.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/2.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/3.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/4.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/5.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/6.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/7.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/8.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/9.PNG)
+![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_rabota_2/blob/main/10.PNG)
